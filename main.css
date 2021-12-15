@@ -1,0 +1,17 @@
+.boxcenter {
+  width: 40em;
+  border: 1px solid #FFF;
+  box-shadow: 4px 4px 4px #FFFFFF;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #111119, #F74F4E 70%);
+}
+
+.box1 {
+  width: 20em;
+  border: 2px solid #111119;
+  box-shadow: 5px 5px 5px #111119;
+}
+
+.boxcenter :first-child {
+    align-self: center;
+}
